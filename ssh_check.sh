@@ -16,8 +16,10 @@ echo $ROOT_IP
 
 if [ "$ROOT_IP" != "192.168.0.107" ]
 then
+	if [ "$ROOT_LOGIN" -gt 0 ]
+	then
         curl --header 'Content-Type: application/json' --request 'POST' --data '{"chat_id":"597894998","text":"Логин с внешнего IP"}' "https://api.telegram.org/bot783825278:AAH6EAh1YT39lx9WMT0DJ-sbcu6FBQdowYA/sendMessage"
         date > /var/log/allert.txt && w >> /var/log/allert.txt
         echo Логин с внешнего IP | mutt -s "Connection allert" alex.lanovoy@gmail.com -a /var/log/allert.txt
 fi
-
+fi
