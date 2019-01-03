@@ -86,7 +86,9 @@ done
 
 LOG_FILE="/var/log/secure"
 CARRENT_DATE=$(date +"%d")
-cat $LOG_FILE | grep $CARRENT_DATE | grep -E -o "(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)" > CARRENT_IP.txt
+cat $LOG_FILE |grep -v Accepted | grep $CARRENT_DATE | grep -E -o "(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)" > CARRENT_IP.txt
+
+
 sort CARRENT_IP.txt > CARRENT_SORT_IP.txt && uniq CARRENT_SORT_IP.txt > UNIQ_IP.txt
 FILE_IP="UNIQ_IP.txt"
 echo $LOG_FILE >> report.txt
@@ -98,6 +100,6 @@ whois $DISCOVER_IP | grep -i -e country -i -e descr -i -e OrgName -i -e Org-Name
 echo " " >> report.txt
 done
 
-
+cat CARRENT_IP.txt >> WEEKLY_REPORT.txt
 cat report.txt
-#echo Коннект за сутки | mutt -s "Суточный отчет" alex.lanovoy@gmail.com -a /var/log/dev/report.txt
+echo Коннект за сутки | mutt -s "Суточный отчет" alex.lanovoy@gmail.com -a /var/log/dev/report.txt

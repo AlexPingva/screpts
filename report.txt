@@ -1,0 +1,1486 @@
+/var/log/nginx/access.log
+===================================================================================================
+109.87.197.100
+country:        UA
+descr:          Triolan, Kharkiv
+ 
+124.109.22.218
+descr:          PT. JAWA POS NATIONAL NETWORK MEDIALINK
+descr:          Internet Service Provider
+descr:          Graha Pena Building 5th floor
+descr:          Jl. Raya Kebayoran Lama 12
+descr:          Jakarta Selatan 12210
+country:        ID
+country:        ID
+descr:          Route object of PT. JAWA POS NATIONAL NETWORK MEDIALINK
+descr:          Internet Service Provider
+descr:          Jl. Gajah Mada No.2-4
+descr:          Pontianak
+descr:          Kalimantan Barat, 78124
+country:        ID
+descr:          PT. JAWA POS NATIONAL NETWORK MEDIALINK
+descr:          Internet Service Provider
+descr:          Graha Pena Building 5th floor
+descr:          Jl. Raya Kebayoran Lama 12
+descr:          Jakarta Selatan 12210
+country:        ID
+country:        ID
+descr:          Route object of PT. JAWA POS NATIONAL NETWORK MEDIALINK
+descr:          Internet Service Provider
+descr:          Jl. Gajah Mada No.2-4
+descr:          Pontianak
+descr:          Kalimantan Barat, 78124
+country:        ID
+ 
+124.165.205.23
+descr:          China Unicom Shan1xi province network
+descr:          China Unicom
+country:        CN
+country:        CN
+descr:          CNC Group CHINA169 Shan1xi Province Network
+country:        CN
+ 
+139.5.148.190
+descr:          PT Gudang Data Indonesia
+descr:          Corporate / Direct Member IDNIC
+descr:          Rukan Duren Tiga No.7K
+descr:          Jl. Duren Tiga, Jakarta Selatan
+descr:          DKI Jakarta 12760
+country:        ID
+country:        ID
+descr:          PT Gudang Data Indonesia
+descr:          Corporate / Direct Member IDNIC
+descr:          Rukan Duren Tiga No.7K
+descr:          Jl. Duren Tiga, Jakarta Selatan
+descr:          DKI Jakarta 12760
+country:        ID
+country:        ID
+ 
+168.1.128.53
+descr:          Net Systems Research LLC
+country:        US
+ 
+168.1.128.76
+descr:          Net Systems Research LLC
+country:        US
+ 
+169.54.244.75
+descr:          Net Systems Research LLC
+country:        US
+ 
+170.254.226.182
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+ 
+177.75.65.110
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+ 
+194.147.32.50
+country:        RU
+org-name:       LLC Baxet
+descr:          http://justhost.ru
+ 
+201.150.151.86
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+ 
+206.189.97.35
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+41.79.94.252
+descr:          Faircape Group
+country:        ZA
+descr:          Faircape Communications
+ 
+/var/log/nginx/error.log
+===================================================================================================
+124.165.205.23
+descr:          China Unicom Shan1xi province network
+descr:          China Unicom
+country:        CN
+country:        CN
+descr:          CNC Group CHINA169 Shan1xi Province Network
+country:        CN
+ 
+178.213.168.68
+country:        UA
+org-name:       PRIVATE JOINT STOCK COMPANY "DATAGROUP"
+descr:          PJSC DATAGROUP
+ 
+194.147.32.50
+country:        RU
+org-name:       LLC Baxet
+descr:          http://justhost.ru
+ 
+/var/log/nginx/lameya-access.log
+===================================================================================================
+178.128.191.77
+country:        NL
+org-name:       DigitalOcean, LLC
+ 
+183.80.42.126
+country:        VN
+descr:          FPT Telecom
+country:        VN
+country:        VN
+ 
+184.105.247.195
+contact:Country-Code:US
+contact:Country-Code:US
+contact:Country-Code:US
+ 
+194.147.32.50
+country:        RU
+org-name:       LLC Baxet
+descr:          http://justhost.ru
+ 
+206.189.97.35
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+41.32.237.131
+descr:          TE Data-New
+country:        EG
+descr:          Telecom-Egypt-Data
+ 
+42.118.114.195
+country:        vn
+descr:          FPT Telecom Company
+descr:          2nd floor FPT Building, Pham Hung Road, Cau Giay District, Hanoi
+country:        VN
+country:        VN
+ 
+46.35.239.61
+descr:          Lancom Ltd, Russia, Sevastopol
+descr:          Sevstar TM, broadband
+country:        ru
+descr:          Sevstar route
+ 
+61.195.238.103
+g. [Organization]               Oita Cable Telecom Co.,Ltd.
+ 
+61.219.11.151
+ 
+68.183.170.177
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+/var/log/nginx/lameya-error.log
+===================================================================================================
+178.213.168.68
+country:        UA
+org-name:       PRIVATE JOINT STOCK COMPANY "DATAGROUP"
+descr:          PJSC DATAGROUP
+ 
+194.147.32.50
+country:        RU
+org-name:       LLC Baxet
+descr:          http://justhost.ru
+ 
+/var/log/nginx/download.log
+===================================================================================================
+/var/log/nginx/download-error.log
+===================================================================================================
+/var/log/secure
+===================================================================================================
+0.0.0.0
+ 
+037.137.160.122
+ 
+101.207.248.79
+descr:          UNICOM Sichuan province network
+descr:          China Unicom
+descr:          No.21,Jin-Rong Street
+descr:          Beijing 100033
+country:        CN
+country:        CN
+country:        CN
+descr:          China Unicom Sichuan Province Network
+country:        CN
+ 
+101.236.29.126
+descr:          Beijing Sankuai Technology Co.,Ltd.
+descr:          Wangjing International R&D Park Phase 3,No.6 Wangjing East Road,
+descr:          Chaoyang District,Beijing 100102,PRC
+country:        CN
+country:        CN
+country:        CN
+ 
+101.89.80.218
+descr:          CHINANET SHANGHAI PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+country:        CN
+ 
+103.10.44.56
+descr:          CLOUDMEDIA COMPANY LIMITED
+descr:          VP5 No 143 Pham Huy Thong, 6 ward, Go Vap district, Ho Chi Minh city
+country:        VN
+country:        VN
+ 
+103.110.89.148
+descr:          PT Indonesia Comnet Plus
+country:        ID
+country:        ID
+country:        ID
+ 
+103.21.176.33
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org-name:       China Mobile
+country:        CN
+country:        CN
+country:        CN
+ 
+103.23.102.3
+descr:          Universitas Negeri Semarang
+descr:          University / Direct Member IDNIC
+descr:          Kampus Sekaran, Gunungpati
+descr:          Semarang 50229
+country:        ID
+country:        ID
+descr:          Universitas Negeri Semarang
+descr:          University / Direct Member IDNIC
+descr:          Kampus Sekaran, Gunungpati
+descr:          Semarang 50229
+country:        ID
+country:        ID
+ 
+103.242.111.121
+descr:          92Cloud Technology Co., Limited
+country:        HK
+country:        HK
+descr:          92CLOUD TECHNOLOGY
+ 
+103.31.109.170
+descr:          Koperasi PRIMKOKAS
+descr:          Corporate / Direct Member IDNIC
+descr:          Jl. Yasin Beji RT.01/03
+descr:          Kota Bumi, Purwakarta
+descr:          Cilegon, Banten 42435
+country:        ID
+country:        ID
+descr:          Koperasi PRIMKOKAS
+descr:          Corporate / Direct Member IDNIC
+descr:          Jl. Yasin Beji RT.01/03
+descr:          Kota Bumi, Purwakarta
+descr:          Cilegon, Banten 42435
+country:        ID
+country:        ID
+ 
+103.40.235.188
+descr:          ShangHai AnchNet Tec, Inc
+descr:          2F,Building 4,N0.1 West Hulan Road,ShangHai,PRC
+country:        CN
+country:        CN
+ 
+103.44.28.43
+descr:          FLAT C 9/F WINNING HOUSE NO.72-74
+descr:          WING LOK ST SHEUNG WAN
+descr:          HONG KONG
+country:        HK
+org-name:       HUPO LIMITED
+country:        HK
+country:        HK
+descr:          HUPO LIMITED
+ 
+103.61.44.83
+descr:          Scom Technology Join stock company
+descr:          No 32 Giang Vo, Cat Linh ward, Dong Da district, Ha Noi city
+country:        VN
+country:        VN
+country:        VN
+descr:          SCOM-VN
+ 
+103.75.209.154
+country:        ID
+descr:          PT. Mora Telematika Indonesia
+descr:          Grha 9, 1st Floor
+descr:          Jl. Panataran No. 9
+descr:          Jakarta Pusat 10320
+country:        ID
+country:        ID
+descr:          Route Object for PT. Mora Telematika Indonesia
+descr:          Internet Service Provider
+descr:          Grha 9, 1st Floor
+descr:          Jl. Panataran No. 9
+descr:          Jakarta Pusat 12710
+ 
+103.81.134.86
+country:        ID
+descr:          PT. Mora Telematika Indonesia
+descr:          Grha 9, 1st Floor
+descr:          Jl. Panataran No. 9
+descr:          Jakarta Pusat 10320
+country:        ID
+country:        ID
+ 
+103.91.103.74
+descr:          Airtech Internet Solutions Pvt. Ltd.
+country:        IN
+country:        IN
+country:        IN
+descr:          Airtech Internet Solutions Pvt. Ltd.
+descr:          Airtech Internet Solutions Pvt. Ltd.
+ 
+103.99.63.65
+descr:          Shenzhen City Kayan Technology Co., Ltd
+country:        CN
+org-name:       Shenzhen City Kayan Technology Co., Ltd
+country:        CN
+country:        CN
+descr:          Shenzhen City Kayan Technology Co., Ltd
+ 
+104.236.72.187
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+104.52.24.81
+Organization:   AT&T Corp. (AC-3280)
+OrgName:        AT&T Corp.
+Country:        US
+Country:        US
+ 
+106.12.127.25
+descr:          Beijing Baidu Netcom Science and Technology Co., Ltd.
+descr:          Baidu Plaza, No.10, Shangdi 10th street,
+descr:          Haidian District Beijing,100080
+country:        CN
+country:        CN
+descr:          Baidu
+country:        CN
+descr:          Baidu
+country:        CN
+ 
+106.12.195.118
+descr:          Beijing Baidu Netcom Science and Technology Co., Ltd.
+descr:          Baidu Plaza, No.10, Shangdi 10th street,
+descr:          Haidian District Beijing,100080
+country:        CN
+country:        CN
+descr:          Baidu
+country:        CN
+descr:          Baidu
+country:        CN
+ 
+106.12.197.253
+descr:          Beijing Baidu Netcom Science and Technology Co., Ltd.
+descr:          Baidu Plaza, No.10, Shangdi 10th street,
+descr:          Haidian District Beijing,100080
+country:        CN
+country:        CN
+descr:          Baidu
+country:        CN
+descr:          Baidu
+country:        CN
+ 
+106.12.205.172
+descr:          Beijing Baidu Netcom Science and Technology Co., Ltd.
+descr:          Baidu Plaza, No.10, Shangdi 10th street,
+descr:          Haidian District Beijing,100080
+country:        CN
+country:        CN
+descr:          Baidu
+country:        CN
+descr:          Baidu
+country:        CN
+ 
+106.12.212.39
+descr:          Beijing Baidu Netcom Science and Technology Co., Ltd.
+descr:          Baidu Plaza, No.10, Shangdi 10th street,
+descr:          Haidian District Beijing,100080
+country:        CN
+country:        CN
+descr:          Baidu
+country:        CN
+descr:          Baidu
+country:        CN
+ 
+106.12.85.241
+descr:          Beijing Baidu Netcom Science and Technology Co., Ltd.
+descr:          Baidu Plaza, No.10, Shangdi 10th street,
+descr:          Haidian District Beijing,100080
+country:        CN
+country:        CN
+descr:          Baidu
+country:        CN
+descr:          Baidu
+country:        CN
+ 
+106.13.43.242
+descr:          Beijing Baidu Netcom Science and Technology Co., Ltd.
+descr:          Baidu Plaza, No.10, Shangdi 10th street,
+descr:          Haidian District Beijing,100080
+country:        CN
+country:        CN
+descr:          Baidu
+country:        CN
+descr:          Baidu
+country:        CN
+ 
+107.173.80.154
+Organization:   ColoCrossing (VGS-9)
+OrgName:        ColoCrossing
+Country:        US
+ 
+112.85.42.62
+descr:          China Unicom Jiangsu province network
+descr:          China Unicom
+country:        CN
+country:        CN
+country:        CN
+descr:          China Unicom CHINA169 Jiangsu Province Network
+country:        CN
+ 
+112.85.42.88
+descr:          China Unicom Jiangsu province network
+descr:          China Unicom
+country:        CN
+country:        CN
+country:        CN
+descr:          China Unicom CHINA169 Jiangsu Province Network
+country:        CN
+ 
+114.34.53.178
+ 
+115.238.245.2
+country:        CN
+descr:          linan-coltd
+descr:
+country:        CN
+country:        CN
+ 
+115.238.245.4
+country:        CN
+descr:          linan-coltd
+descr:
+country:        CN
+country:        CN
+ 
+115.238.245.8
+country:        CN
+descr:          linan-coltd
+descr:
+country:        CN
+country:        CN
+ 
+116.212.237.226
+descr:          VOCUS PTY LTD
+descr:          Vocus Communications
+descr:          Lvl 1, 189 Miller Street
+country:        AU
+org-name:       VOCUS PTY LTD
+country:        AU
+country:        AU
+ 
+118.107.233.29
+descr:          MetroFON BB
+country:        MY
+country:        MY
+ 
+118.123.15.142
+descr:          CHINANET Sichuan province network
+descr:          China Telecom
+descr:          A12,Xin-Jie-Kou-Wai Street
+descr:          Beijing 100088
+country:        CN
+country:        CN
+country:        CN
+ 
+118.179.136.26
+descr:          Amber IT Networks
+country:        BD
+country:        BD
+descr:          AmberIT Limited Route Object
+ 
+118.21.134.67
+descr:          NTT Communications Corporation
+descr:          1-6 Uchisaiwai-cho 1-chome Chiyoda-ku, Tokyo 100-8019 Japan
+country:        JP
+country:        JP
+descr:          NTT Plala Inc.
+country:        JP
+ 
+118.24.157.187
+descr:          Tencent Cloud Computing (Beijing) Co., Ltd
+descr:          Floor 6, Yinke Building, 38 Haidian St, Haidian District
+country:        CN
+org-name:       Tencent Cloud Computing (Beijing) Co., Ltd
+country:        CN
+country:        CN
+descr:          TENCENT-CN routes
+ 
+119.201.214.130
+descr:          Korea Telecom
+country:        KR
+country:        KR
+descr:          Korea Telecom
+country:        KR
+country:        KR
+country:        KR
+ 
+119.29.80.17
+descr:          Tencent cloud computing (Beijing) Co., Ltd.
+descr:          Floor 6, Yinke Building,38 Haidian St,
+descr:          Haidian District Beijing
+country:        CN
+country:        CN
+country:        CN
+descr:          Shenzhen Tencent Computer Systems Company Limited
+country:        CN
+ 
+121.111.242.103
+descr:          KDDI CORPORATION
+descr:          Garden Air Tower,3-10-10,Iidabashi,Chiyoda-ku,Tokyo,102-8460,Japan
+country:        JP
+country:        JP
+descr:          DION (KDDI CORPORATION)
+country:        JP
+ 
+121.12.151.250
+descr:          CHINANET Guangdong province network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+country:        CN
+country:        CN
+descr:          From Guangdong Network of ChinaTelecom
+ 
+122.160.137.37
+descr:          ABTS DELHI,
+descr:          Broadband and Telephone Service 224,Okhla Phase III,
+descr:          New Delhi
+descr:          Delhi
+descr:          India
+descr:          Contact Person: Anil Jhamb
+descr:          Email: dsl.noc@airtel.in
+descr:          Phone:011-41612222
+descr:          Date of allocation:15-JAN-07
+country:        IN
+country:        IN
+descr:          BHARTI-IN
+descr:          Bharti Tele-Ventures Limited
+descr:          Class A ISP in INDIA .
+descr:          234 , OKHLA PHASE III ,
+descr:          NEW DELHI
+descr:          INDIA
+country:        IN
+ 
+122.225.7.4
+country:        CN
+descr:          chen yuming
+descr:
+country:        CN
+country:        CN
+ 
+122.226.181.164
+country:        CN
+descr:          Hangzhou tianjian to information technology
+descr:
+country:        CN
+country:        CN
+ 
+122.226.181.166
+country:        CN
+descr:          Hangzhou tianjian to information technology
+descr:
+country:        CN
+country:        CN
+ 
+122.226.181.167
+country:        CN
+descr:          Hangzhou tianjian to information technology
+descr:
+country:        CN
+country:        CN
+ 
+122.228.253.94
+country:        CN
+descr:          Beijing Souhu CO.,LTD
+descr:
+country:        CN
+country:        CN
+ 
+122.228.253.98
+country:        CN
+descr:          Beijing Souhu CO.,LTD
+descr:
+country:        CN
+country:        CN
+ 
+125.65.42.192
+descr:          LANXUN-TECH-CORP
+descr:          mianyang sichuan
+descr:          PR China
+country:        CN
+country:        CN
+descr:          China Telecom
+ 
+131.72.141.34
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+country:     BR
+ 
+134.175.232.233
+descr:          Tencent Cloud Computing (Beijing) Co., Ltd
+country:        CN
+org-name:       Tencent Cloud Computing (Beijing) Co., Ltd
+country:        CN
+country:        CN
+descr:          Tencent Cloud Computing (Beijing) Co., Ltd
+ 
+13.84.12.61
+Organization:   Microsoft Corporation (MSFT)
+OrgName:        Microsoft Corporation
+Country:        US
+ 
+139.199.195.199
+descr:          Tencent cloud computing (Beijing) Co., Ltd.
+descr:          Floor 6, Yinke Building,38 Haidian St,
+descr:          Haidian District Beijing
+country:        CN
+country:        CN
+country:        CN
+descr:          TencentCloud
+descr:          Tencent cloud computing (Beijing) Co., Ltd.
+country:        CN
+ 
+139.199.221.21
+descr:          Tencent cloud computing (Beijing) Co., Ltd.
+descr:          Floor 6, Yinke Building,38 Haidian St,
+descr:          Haidian District Beijing
+country:        CN
+country:        CN
+country:        CN
+descr:          TencentCloud
+descr:          Tencent cloud computing (Beijing) Co., Ltd.
+country:        CN
+ 
+139.59.106.82
+descr:          DigitalOcean, LLC
+country:        SG
+country:        US
+ 
+140.143.183.71
+descr:          Tencent cloud computing (Beijing) Co., Ltd.
+descr:          Floor 6, Yinke Building,38 Haidian St,
+descr:          Haidian District Beijing
+country:        CN
+country:        CN
+country:        CN
+descr:          TencentCloud
+country:        CN
+ 
+14.18.100.90
+descr:          CHINANET Guangdong province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+country:        CN
+country:        CN
+ 
+144.217.79.233
+Organization:   OVH Hosting, Inc. (HO-2)
+OrgName:        OVH Hosting, Inc.
+Country:        CA
+ 
+145.239.81.103
+country:        PL
+descr:          OVH VPS WAW
+org-name:       OVH Sp. z o. o.
+descr:          OVH
+ 
+145.239.82.62
+country:        PL
+descr:          OVH VPS WAW
+org-name:       OVH Sp. z o. o.
+descr:          OVH
+ 
+148.216.53.252
+country:     MX
+country:     MX
+ 
+149.202.75.205
+country:        FR
+org-name:       OVH SAS
+descr:          OVH
+ 
+149.56.166.241
+Country:        BR
+Organization:   OVH Hosting, Inc. (HO-2)
+OrgName:        OVH Hosting, Inc.
+Country:        CA
+ 
+152.175.26.103
+country:     CL
+country:     CL
+ 
+152.242.123.81
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+country:     BR
+ 
+155.4.226.134
+descr:          RID-0000614499
+country:        SE
+descr:          Bahnhof Internet, Sweden
+ 
+155.94.146.119
+network:Org-Name:AlphaRacks Hosting
+network:Country-Code:US
+ 
+157.230.27.236
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+159.203.169.16
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+159.203.179.230
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+159.65.135.55
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+159.89.104.243
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+159.89.12.0
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+164.160.94.130
+descr:          Early registration addresses
+country:        AU
+ 
+164.52.24.164
+descr:          137-139, Connaught Road Central, Hongkong
+country:        HK
+org-name:       Capitalonline Data Service (HK) Co., Limited
+country:        CN
+country:        CN
+ 
+165.16.54.208
+descr:          Giga for telecommunication and technology ltd
+descr:          Email: sbader@giga.ly
+descr:          Contact person: Sammy Bader
+descr:          Website: Giga.ly
+descr:          Misurata, Libya
+country:        LY
+ 
+170.79.120.4
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+ 
+177.144.136.133
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+country:     BR
+ 
+177.43.90.227
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+country:     BR
+country:     BR
+ 
+177.65.157.176
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+ 
+178.254.41.113
+descr:          1Blu 178.254.40.0/22
+country:        DE
+org-name:       1blu AG
+descr:          DE-EVANZO-MK
+ 
+178.33.233.54
+descr:          OVH SAS
+descr:          Cloud infrastructure
+descr:          http://www.ovh.com
+country:        FR
+descr:          OVH ISP
+descr:          Paris, France
+ 
+178.62.23.75
+descr:          DigitalOcean London
+country:        GB
+ 
+179.229.240.121
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+country:     BR
+ 
+180.149.125.170
+descr:          Code M building #305
+country:        MN
+org-name:       Gemnet
+country:        MN
+country:        MN
+descr:          gemnet sub network
+ 
+182.162.22.207
+descr:          LG DACOM KIDC
+country:        KR
+country:        KR
+descr:          LG DACOM KIDC
+country:        KR
+country:        KR
+country:        KR
+ 
+182.23.65.38
+descr:          Indonesia Online Access
+descr:          PT Aplikanusa Lintasarta
+country:        ID
+country:        ID
+descr:          Route Object of PT Aplikanusa Lintasarta
+descr:          ISP
+descr:          MH Thamrin Kav 3
+descr:          Menara Thamrin Bulding 12th Floor
+descr:          Jakarta 10250
+country:        ID
+descr:          CLOUD COMPUTING 1
+descr:          JAKARTA
+country:        ID
+country:        ID
+descr:          Route Object of PT Aplikanusa Lintasarta
+descr:          ISP
+descr:          MH Thamrin Kav 3
+descr:          Menara Thamrin Bulding 12th Floor
+descr:          Jakarta 10250
+country:        ID
+ 
+182.70.254.126
+descr:          Bharti Airtel Limited
+descr:          Transport Network Group
+descr:          234, Okhla Phase III
+country:        IN
+org-name:       Bharti Airtel Limited
+country:        IN
+country:        IN
+descr:          ABTS-MP-819332-BPL
+descr:          BHARTI TELENET LTD.MADHYA PRADESH
+descr:          1st Floor, Malviya Nagar,
+descr:          Bhopal
+descr:          Madhya Pradesh
+descr:          INDIA
+country:        IN
+ 
+183.107.101.252
+descr:          Korea Telecom
+country:        KR
+country:        KR
+descr:          Korea Telecom
+country:        KR
+country:        KR
+country:        KR
+ 
+184.71.221.230
+ 
+186.249.209.22
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+ 
+186.251.4.23
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+ 
+187.19.62.11
+%  The use of the data below is only permitted as described in
+country:     BR
+country:     BR
+ 
+188.112.248.36
+country:        RU
+org-name:       Interproekt Ltd.
+descr:          Interproekt Ltd. company
+ 
+188.166.8.178
+descr:          Digital Ocean, Inc.
+country:        NL
+org-name:       DigitalOcean, LLC
+ 
+188.187.111.123
+descr:          CJSC "ER-Telecom Holding" Saint-Petersburg branch
+descr:          Saint-Petersburg, Russia
+descr:          PPPOE individual customers
+country:        RU
+org-name:       JSC "ER-Telecom Holding" Saint-Petersburg Branch
+descr:          TM DOM.RU, Saint-Petersburg ISP
+descr:          CJSC "ER-Telecom Holding" Saint-Petersburg branch
+descr:          Saint-Petersburg, Russia
+org-name:       JSC "ER-Telecom Holding" Saint-Petersburg Branch
+descr:          TM DOM.RU, Saint-Petersburg ISP
+ 
+190.81.33.62
+country:     PE
+country:     PE
+ 
+190.93.208.176
+country:     AR
+country:     AR
+country:     AR
+ 
+191.92.71.194
+country:     CO
+country:     CO
+ 
+192.168.0.107
+ 
+196.52.43.91
+descr:          Net Systems Research, LLC
+country:        US
+ 
+198.27.67.173
+Organization:   OVH Hosting, Inc. (HO-2)
+OrgName:        OVH Hosting, Inc.
+Country:        CA
+ 
+199.19.225.65
+Organization:   FranTech Solutions (SYNDI-5)
+OrgName:        FranTech Solutions
+Country:        US
+ 
+200.69.250.253
+country:     AR
+country:     AR
+ 
+201.254.44.72
+country:     AR
+country:     AR
+ 
+202.51.74.50
+descr:          Communications and communicate Nepal (P)Ltd.
+descr:          Siddhi Bhawan, Kantipath
+descr:          PO BOX 11291
+descr:          Kathmandu
+country:        NP
+org-name:       Communications & Communicate Nepal Pvt Ltd
+country:        NP
+country:        NP
+descr:          CCNEP 202.51.74.0/23
+ 
+203.113.25.6
+descr:          TOT Internet Data Center
+descr:          TOT Public Company Limited
+country:        th
+country:        TH
+country:        TH
+descr:          TOT Public Company Limited
+ 
+203.142.42.4
+descr:          Internet Service Provider, Malaysia
+descr:          Suite 22-28, 5th Floor, IOI Business Park,
+descr:          Puchong, Selangor, Malaysia
+country:        MY
+org-name:       REDtone Marketing Sdn. Bhd.
+country:        MY
+country:        MY
+descr:          CNX route object
+country:        MY
+ 
+203.76.214.191
+descr:          Xiamen Sankuai Online Technology Co.,Ltd., Zigong Branch
+descr:          No. 3, 19th Floor, Building 1, Taifeng Building, Dangui Street East, Ziliujing District, Zigong City, Sichuan Prov., PRC
+country:        CN
+country:        CN
+country:        CN
+ 
+206.189.104.103
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+209.141.51.85
+Organization:   FranTech Solutions (SYNDI-5)
+OrgName:        FranTech Solutions
+Country:        US
+ 
+209.141.59.134
+Organization:   FranTech Solutions (SYNDI-5)
+OrgName:        FranTech Solutions
+Country:        US
+ 
+210.203.20.252
+ 
+214.82.185.35
+Organization:   DoD Network Information Center (DNIC)
+OrgName:        DoD Network Information Center
+Country:        US
+ 
+218.103.112.98
+descr:          Hong Kong Telecommunications (HKT) Limited
+country:        HK
+country:        hk
+descr:          PCCW IMS Limited
+ 
+218.5.112.6
+descr:          CHINANET fujian  province network
+descr:          China Telecom
+descr:          A12,Xin-Jie-Kou-Wai Street
+descr:          Beijing 100088
+country:        CN
+country:        CN
+country:        CN
+descr:          China Telecom
+ 
+218.75.132.59
+country:        CN
+descr:          CHINANET-HN changde node network
+descr:          hunan Telecom
+country:        CN
+country:        CN
+ 
+218.92.1.158
+descr:          CHINANET jiangsu province network
+descr:          China Telecom
+descr:          A12,Xin-Jie-Kou-Wai Street
+descr:          Beijing 100088
+country:        CN
+country:        CN
+country:        CN
+descr:          CHINANET jiangsu province network
+country:        CN
+ 
+220.191.194.22
+country:        CN
+descr:          CHINANET-ZJ Hangzhou node network
+descr:          Zhejiang Telecom
+country:        CN
+country:        CN
+ 
+221.203.38.14
+descr:          China Unicom Liaoning Province Network
+descr:          China Unicom
+country:        CN
+country:        CN
+country:        CN
+descr:          CNC Group CHINA169 Liaoning Province Network
+country:        CN
+ 
+22.209.249.186
+Organization:   DoD Network Information Center (DNIC)
+OrgName:        DoD Network Information Center
+Country:        US
+ 
+223.111.139.210
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org-name:       China Mobile
+country:        CN
+country:        CN
+descr:          China Mobile communications corporation
+ 
+223.111.139.211
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org-name:       China Mobile
+country:        CN
+country:        CN
+descr:          China Mobile communications corporation
+ 
+223.111.139.244
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org-name:       China Mobile
+country:        CN
+country:        CN
+descr:          China Mobile communications corporation
+ 
+223.111.139.247
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org-name:       China Mobile
+country:        CN
+country:        CN
+descr:          China Mobile communications corporation
+ 
+23.224.135.202
+Organization:   CloudRadium L.L.C (CL-142)
+OrgName:        CloudRadium L.L.C
+Country:        US
+ 
+24.134.52.33
+descr:          KABEL-DEUTSCHLAND-CUSTOMER-SERVICES-28
+country:        DE
+descr:          Kabeldeutschland Route
+ 
+249.51.226.35
+ 
+27.54.242.205
+descr:          Anhui Easy-speed Network Technology Co., Ltd.
+descr:          Chuzhou City Quanjiao Wu Jingzi Road PikLane,Anhui,China
+country:        CN
+country:        CN
+ 
+27.72.24.93
+descr:          Viettel Group
+descr:          No 1, Tran Huu Duc street, My Dinh 2 ward, Nam Tu Liem district, Ha Noi City
+country:        VN
+country:        VN
+country:        VN
+ 
+27.82.0.143
+descr:          KDDI CORPORATION
+descr:          GARDEN AIR TOWER,3-10-10,Iidabashi,Chiyoda-ku,Tokyo
+country:        JP
+country:        JP
+descr:          KDDI CORPORATION
+country:        JP
+ 
+35.185.82.214
+Organization:   Google LLC (GOOGL-2)
+OrgName:        Google LLC
+Country:        US
+ 
+35.203.150.77
+Organization:   Google LLC (GOOGL-2)
+OrgName:        Google LLC
+Country:        US
+ 
+35.226.51.249
+Organization:   Google LLC (GOOGL-2)
+OrgName:        Google LLC
+Country:        US
+ 
+36.156.24.93
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org-name:       China Mobile Communications Corporation
+country:        CN
+country:        CN
+country:        CN
+descr:          China Mobile Communications Corporation
+ 
+36.156.24.94
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org-name:       China Mobile Communications Corporation
+country:        CN
+country:        CN
+country:        CN
+descr:          China Mobile Communications Corporation
+ 
+36.156.24.95
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org-name:       China Mobile Communications Corporation
+country:        CN
+country:        CN
+country:        CN
+descr:          China Mobile Communications Corporation
+ 
+36.156.24.96
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org-name:       China Mobile Communications Corporation
+country:        CN
+country:        CN
+country:        CN
+descr:          China Mobile Communications Corporation
+ 
+36.156.24.97
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org-name:       China Mobile Communications Corporation
+country:        CN
+country:        CN
+country:        CN
+descr:          China Mobile Communications Corporation
+ 
+36.156.24.98
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org-name:       China Mobile Communications Corporation
+country:        CN
+country:        CN
+country:        CN
+descr:          China Mobile Communications Corporation
+ 
+37.61.203.211
+descr:          Host Europe GmbH
+country:        DE
+descr:          DE-HER-37-61-192-SLASH-19
+ 
+40.113.243.254
+Organization:   Microsoft Corporation (MSFT)
+OrgName:        Microsoft Corporation
+Country:        US
+ 
+41.203.216.86
+descr:          Fixed Wimax and Fiber  Roll out for corporate customers for Western Kenya Region
+country:        KE
+ 
+41.76.149.212
+descr:          Vodacom Business
+country:        MZ
+ 
+45.119.83.195
+descr:          Long Van System Solution JSC
+descr:          76I Pham Viet Chanh, Ward 19, Binh Thanh District, Hochiminh City
+country:        VN
+country:        VN
+country:        VN
+ 
+45.249.48.21
+descr:          E Net Entertainment Pvt Ltd
+country:        IN
+country:        IN
+country:        IN
+descr:          E Net Entertainment Pvt Ltd
+ 
+45.55.254.13
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+46.101.77.58
+descr:          Digital Ocean, Inc.
+country:        GB
+org-name:       DigitalOcean, LLC
+ 
+50.63.165.214
+Organization:   GoDaddy.com, LLC (GODAD)
+OrgName:        GoDaddy.com, LLC
+Country:        US
+ 
+51.15.51.54
+country:        NL
+org-name:       ONLINE SAS NL
+ 
+51.75.247.138
+country:        FR
+org-name:       OVH SAS
+ 
+51.75.30.199
+country:        FR
+org-name:       OVH SAS
+ 
+52.0.71.200
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+OrgName:        Amazon Technologies Inc.
+Country:        US
+ 
+54.36.151.64
+country:        FR
+descr:          Failover IPs
+org-name:       OVH SAS
+ 
+54.37.155.215
+country:        FR
+org-name:       OVH SAS
+ 
+58.242.83.32
+country:        CN
+descr:          ANHUI UNICOM
+country:        CN
+country:        CN
+descr:          CNC Group CHINA169 AnHui province network
+country:        CN
+descr:          CNCGroup AnHui province network
+country:        CN
+ 
+58.242.83.39
+country:        CN
+descr:          ANHUI UNICOM
+country:        CN
+country:        CN
+descr:          CNC Group CHINA169 AnHui province network
+country:        CN
+descr:          CNCGroup AnHui province network
+country:        CN
+ 
+60.28.226.158
+country:        CN
+descr:          China Unicom Tianjin province network
+descr:          China Unicom
+country:        CN
+country:        CN
+descr:          CNC Group CHINA169 Tianjin Province Network
+country:        CN
+ 
+61.12.84.13
+descr:          TTSL-ISP DIVISION
+country:        IN
+org-name:       TTSL-ISP DIVISION
+country:        IN
+country:        IN
+descr:          TTL CESR
+ 
+61.184.247.11
+descr:          CHINANET Hubei province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+country:        CN
+country:        CN
+ 
+61.184.247.3
+descr:          CHINANET Hubei province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+country:        CN
+country:        CN
+ 
+61.184.247.4
+descr:          CHINANET Hubei province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+country:        CN
+country:        CN
+ 
+61.184.247.6
+descr:          CHINANET Hubei province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+country:        CN
+country:        CN
+ 
+61.184.247.8
+descr:          CHINANET Hubei province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+country:        CN
+country:        CN
+ 
+64.222.246.86
+Organization:   FAIRPOINT COMMUNICATIONS, INC. (FAIRPO-3)
+OrgName:        FAIRPOINT COMMUNICATIONS, INC.
+Country:        US
+ 
+68.183.49.6
+Organization:   DigitalOcean, LLC (DO-13)
+OrgName:        DigitalOcean, LLC
+Country:        US
+ 
+77.150.203.35
+descr:          Pool for mobile data users
+descr:          Dynamic IP
+country:        FR
+descr:          SFR
+ 
+77.72.82.39
+country:        GB
+org-name:       United Protection (UK) Security LIMITED
+descr:          NFOrce Entertainment BV - route 77.72.82.0/24
+ 
+80.151.95.156
+descr:          Deutsche Telekom AG
+descr:          T-DSL Business static dial-up
+country:        DE
+org-name:       Deutsche Telekom AG
+descr:          Deutsche Telekom AG, Internet service provider
+ 
+80.82.51.103
+descr:          Regional multiservice network access
+descr:          CenterTelecom Voronezh ISP
+descr:          35, Revolutsii prosp.
+descr:          Voronezh,394000
+descr:          Russia
+country:        RU
+descr:          CenterTelecom Voronezh ISP
+descr:          35, Revolutsii prosp.
+descr:          Voronezh,394000
+descr:          Russia
+ 
+81.169.140.115
+descr:          Strato Rechenzentrum, Berlin
+country:        DE
+org-name:       Strato AG
+descr:          STRATO AG
+descr:          prefix only advertised in case of DDoS
+ 
+81.174.39.219
+country:        IT
+org-name:       EOLO S.p.A.
+descr:          NGI
+ 
+83.222.220.58
+descr:          Megafon-Moscow Broadband clients pool 83.222.216.0/21
+country:        RU
+descr:          Megafon-Moscow
+ 
+88.214.26.47
+country:        SC
+org-name:       FutureNow Incorporated
+ 
+88.214.26.49
+country:        SC
+org-name:       FutureNow Incorporated
+ 
+91.134.140.32
+country:        FR
+org-name:       OVH SAS
+descr:          OVH
+ 
+94.177.227.14
+descr:          Cloud Services DC05
+country:        DE
+descr:          Aruba GmbH Cloud Network DC05
+ 
+94.230.136.33
+descr:          VI-LINE, Ekaterinburg
+country:        RU
+descr:          KTEL 1.2
+ 
+95.155.13.74
+descr:          Javne adrese za ADSL korisnike
+country:        me
+descr:          Internet Crna Gora
+ 
